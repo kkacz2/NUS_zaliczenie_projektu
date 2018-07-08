@@ -1,3 +1,5 @@
 # Ignore Arduino build files
 
 *.hex
+*.ino.standard.hex
+*.ino.with_bootloader.standard.hex
